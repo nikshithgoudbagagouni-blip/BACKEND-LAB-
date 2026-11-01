@@ -8,7 +8,7 @@
 
 ## Live Link
 
-[https://lab-01-express-server-wl3j.onrender.com/](https://lab-01-express-server-wl3j.onrender.com/)
+[https://lab-01-express-server-zie0.onrender.com/](https://lab-01-express-server-zie0.onrender.com/)
 
 ## How to Run
 

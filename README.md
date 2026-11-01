@@ -11,8 +11,8 @@ This repository contains backend development laboratory experiments and submissi
 
 | Lab | Title | Directory | Live Demo | Status |
 |:---:|:---|:---:|:---:|:---:|
-| Lab 1 | Node.js and Express Server | [lab-01](./lab-01) | [Render Link](https://lab-01-express-server-wl3j.onrender.com/) | Completed |
-| Lab 2 | SQLite Database and CRUD Routes | [lab-02](./lab-02) | [API](https://lab-02-sqlite-server.onrender.com/books/) \| [Tester Studio](https://lab-02-sqlite-server.onrender.com/tester) | Completed |
+| Lab 1 | Node.js and Express Server | [lab-01](./lab-01) | [Render Link](https://lab-01-express-server-zie0.onrender.com/) | Completed |
+| Lab 2 | SQLite Database and CRUD Routes | [lab-02](./lab-02) | [API](https://lab-02-sqlite-server-yqt5.onrender.com/books/) \| [Tester Studio](https://lab-02-sqlite-server-yqt5.onrender.com/tester) | Completed |
 | Lab 3 | Upcoming | lab-03 | — | Pending |
 | Lab 4 | Upcoming | lab-04 | — | Pending |
 | Lab 5 | Upcoming | lab-05 | — | Pending |
