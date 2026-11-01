@@ -3,7 +3,8 @@
 This repository contains backend development laboratory experiments and submissions.
 
 ## Student Details
-- **Name:** Aravind Gabbi
+- **Name:** B NIKSHITH GOUD
+- **Registration Number:** 252U1R8004
 - **Section:** CSE-QE 113
 
 ## Labs Index

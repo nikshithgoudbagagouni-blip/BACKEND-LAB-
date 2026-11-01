@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Name:** Aravind Gabbi
-- **Registration Number:** 252U1R8021
+- **Name:** B NIKSHITH GOUD
+- **Registration Number:** 252U1R8004
 - **Section:** CSE-QE 113
 
 ## Live Links & Interactive Testing
